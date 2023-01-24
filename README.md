@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshAgarwal
-- 👀 I’m interested in ... Creating and coding games
-- 🌱 I am a software engineer with specialization in video game development.
+- 👀 I’m interested in ... Creating and playing video games
+- 🌱 I have a Bachelor's Degree in COmputer science and Game Development with specialization in video game development.
 -     I am also working as a Trainee Unity Developer at ZVKY design studio.
 -     My skills inckude knowledge of C/C++ , Java , C#, Unity Game Engine and basic knowledge of cybersecurity
 - 💞️ I’m looking to collaborate on ... Fun Game development projects(Unity)
