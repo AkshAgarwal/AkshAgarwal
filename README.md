@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AkshAgarwal
 - 👀 I’m interested in Making and Playing Video Games.
 - 💞️ I’m looking to collaborate on ... Fun Game development projects(Unity and Unreal Engine)
-- Quick Credentials about me
+- Quick Overview about me
     <details>
     <summary>Education</summary>
     
