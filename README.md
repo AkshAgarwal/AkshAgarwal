@@ -24,7 +24,7 @@
   </details>
 
 - 📫 How to reach me ...akshagarwal54@gmail.com , www.linkedin.com/in/akshagarwal
-- Please feel free to check my resume @ [Aksh.s.Resume.pdf](https://github.com/user-attachments/files/16321152/Aksh.s.Resume.pdf)
+- Please feel free to check my resume @ [Aksh's Resume.docx](https://github.com/user-attachments/files/16321157/Resume.docx)
 
 <!---
 AkshAgarwal/AkshAgarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
